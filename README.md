@@ -1,1 +1,1 @@
-# calculadora-js
+# Calculadora em HTML/CSS e JavaScript
